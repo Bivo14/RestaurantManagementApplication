@@ -1,0 +1,6 @@
+Bill generated successfully
+Table number: 2
+Date: Sat May 09 00:00:00 EEST 2020
+Products ordered: Papara 
+Total price: 8.75
+Thank you for trusting us!
